@@ -1,0 +1,5 @@
+Decorator
+
+Abstrakte Komponente PizzaBase
+Abstrakter Dekorierer Topping
+Konkreter Dekorierer Cheese, Salami, Chili

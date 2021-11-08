@@ -1,0 +1,7 @@
+Strategy
+
+Interface FindMinimum
+erste konkrete Implementierung LinearSearch
+zweite konkrete Implementierung SortArray
+Context MinimumFinder
+Anwendung Example3

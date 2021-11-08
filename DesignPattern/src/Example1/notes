@@ -1,0 +1,3 @@
+Singleton
+
+Es wird ein Objekt von Logger erstellt und über den Konstruktor kann nur mehr auf diese eine Objekt zugegriffen werden.

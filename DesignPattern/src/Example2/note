@@ -1,0 +1,5 @@
+Observer
+
+Observerinterface CounterListener
+Subjekt Counter
+konkreter Observer Log1
